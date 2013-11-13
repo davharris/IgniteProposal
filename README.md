@@ -1,5 +1,6 @@
 The call for proposals is here, with multiple pages of useful information: http://esa.org/am/sessions/ignite/
 
+Please sign up for the session here: https://docs.google.com/forms/d/1Btzd_R3Wlstb8zLsWrLZX_3xkrUA8SdzaEBmalFRxKU/viewform
 
 # The application draft:
 
